@@ -1,0 +1,59 @@
+div {
+    background-color: greenyellow;
+    text-align: center;
+    height: 50px;
+    width: 900px;
+    margin-left: 200px;
+}
+
+.A {
+    background-color: black;
+}
+
+.B {
+    background-color: cadetblue;
+
+}
+
+input {
+    margin-left: 820px;
+}
+
+.C {
+    background-color: white;
+
+}
+
+img {
+    margin-left: 700px;
+
+}
+
+h3 {
+    /* text-align: center; */
+    margin-left: 100px;
+}
+
+.E {
+    background-color: white;
+    margin-left: -700px;
+    margin-top: -70px;
+
+
+}
+
+.F {
+    background-color: white;
+    margin-top: -50px;
+
+}
+
+.G {
+    background-color: white;
+    margin-top: -40px;
+}
+
+.H {
+    background-color: white;
+    margin-top: -40px;
+}
